@@ -4,6 +4,21 @@
 
 <img src="results/overview.png" width=600 class="center"/>
 
+## Statistical Result
+
+- Determine whether a question should be answered with code.
+
+<img src="results/java.png" width=400 class="center"/>
+<div align="left">
+  Result for Java questions
+</div>
+
+<img src="results/python.png" width=400 class="center"/>
+<div align="left">
+  Result for Python questions
+</div>
+
+
 ## Questionnaire Result
 
 - Q1: How satisfied are you with the answer? (Required)
